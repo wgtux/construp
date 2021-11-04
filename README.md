@@ -1,2 +1,2 @@
 # construp
-pagina simples de cadastro de materias de construção
+pagina simples de cadastro de materiais de construção
